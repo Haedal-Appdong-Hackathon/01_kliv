@@ -23,4 +23,4 @@
   공지사항 제공
 <br/><br/>
 ## 시연 영상
-<img width="80%" src="https://github.com/Haedal-Appdong-Hackathon/01_kliv/assets/98224930/1d442dc9-9a55-425c-8ad4-e0aa50ad513e"/>
+<img width="50%" src="https://github.com/Haedal-Appdong-Hackathon/01_kliv/assets/98224930/1d442dc9-9a55-425c-8ad4-e0aa50ad513e"/>
