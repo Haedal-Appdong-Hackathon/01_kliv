@@ -22,3 +22,5 @@
 - 게시판 기능<br/>
   공지사항 제공
 <br/><br/>
+## 시연 영상
+<img width="80%" src="[https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif](https://github.com/Haedal-Appdong-Hackathon/01_kliv/assets/98224930/26328829-015b-4172-8964-649e074d5d2a)https://github.com/Haedal-Appdong-Hackathon/01_kliv/assets/98224930/26328829-015b-4172-8964-649e074d5d2a"/>
